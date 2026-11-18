@@ -1,0 +1,6 @@
+{
+  "name": "CHORDBOOK",
+  "description": "Offline-first live performance chord sheet, metronome, practice looper, and real-time band member sync PWA for musicians.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
